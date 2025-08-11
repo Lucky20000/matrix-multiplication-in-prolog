@@ -1,4 +1,4 @@
-# Matrix Multiplikation in Prolog 
+# Matrixmultiplikation in Prolog 
 
 ## Aufgabe
 Zwei n x n Matrizen sollen multipliziert werden.
